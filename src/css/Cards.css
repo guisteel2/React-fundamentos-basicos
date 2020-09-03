@@ -1,0 +1,62 @@
+.card {
+    text-align: center;
+    background-color: white;
+    /* border: 5px solid red; */
+    border-radius: 10px;
+    margin: 10px;
+    justify-content: center;
+    overflow: hidden;
+    margin: 10px;
+
+    min-width: 350px;
+    max-width: 400px;
+    
+    min-height: 300px;
+    min-width: 400px;
+    
+
+    display: flex;
+    flex-direction: column;
+}
+
+.card .Titulos{
+    align-items: center;
+    height: 90px;
+    padding: 5px 0px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    background-color: red;
+    font-size: 36px;
+}
+
+.card .Content{
+    max-height: 182px;
+    overflow: auto;
+    flex-grow: 1;
+    padding: 10px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    background-color: white;
+    font-size: 20px;
+}
+
+.card1{
+    background-color: blue;
+}
+
+
+.card h1{
+    text-align: center;
+    font-weight: 100px;
+    margin: 0px;
+    color: red;
+}
+
+.card h2{
+    text-align: center;
+    margin: 0px;
+    font-weight: 100px;
+    color: black
+}

@@ -1,0 +1,20 @@
+.TabProd{
+    width: 100%;
+}
+
+.TabProd table{
+    width: 100%;
+}
+
+.TabProd th{
+    background-color: darkblue;
+    color: white;
+}
+
+.TabProd .Par{
+    background-color: rgb(184, 184, 228);
+}
+
+.TabProd .Impar{
+    background-color: rgb(141, 141, 155);
+}

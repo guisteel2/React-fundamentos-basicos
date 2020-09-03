@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+
+.Chamada{
+    width: 300px;
+    max-inline-size: fit-content;
+    background: red;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.app{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
